@@ -15,7 +15,7 @@ body {
 }
 
 .hero_section {
-    background-image: url(image/face.svg);
+    background-image: url(face.svg);
     min-height: 100vh;
     background-position: right;
     margin-right: 12%;
