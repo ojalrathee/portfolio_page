@@ -1,7 +1,7 @@
 # Portfolio Website
 <br>
 Welcome to my personal portfolio website! This project showcases my work, skills, and experience as a front-end developer.
-<h2>🖥️ Live Demo</h2>
+<!-- <h2>🖥️ Live Demo</h2> -->
 <h2>📌 Features</h2>
 
 ◆ Responsive Design – Works across different screen sizes and devices.<br>
