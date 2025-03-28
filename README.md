@@ -4,10 +4,10 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 <h2>🖥️ Live Demo</h2>
 <h2>📌 Features</h2>
 
-◆ Responsive Design – Works across different screen sizes and devices.
-◆ Modern UI/UX – Clean and visually appealing design.
-◆ Interactive Elements – Smooth animations and transitions.
-◆ Contact Form – Reach out directly from the website.
+◆ Responsive Design – Works across different screen sizes and devices.<br>
+◆ Modern UI/UX – Clean and visually appealing design.<br>
+◆ Interactive Elements – Smooth animations and transitions.<br>
+◆ Contact Form – Reach out directly from the website.<br>
 
 <h2>🚀 Technologies Used</h2>
 
